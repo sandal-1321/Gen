@@ -1,0 +1,8 @@
+.home-sec{
+    width: 99%;
+    height: 80vh;
+    display: flex;
+}
+.home-sec-lef,.home-sec-rig{
+    width: 50%;
+}
