@@ -1,0 +1,39 @@
+.nav-main-1 {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    align-items: center;
+}
+
+.nav-conta {
+    display: flex;
+    margin-left: 30px;
+}
+
+.nav-conta div {
+    display: flex;
+    margin: 0px 20px;
+}
+
+.nav-conta div span {
+    margin: 0px 10px;
+}
+
+.nav-help {
+    display: flex;
+    margin-right: 20px;
+}
+
+.nav-help p {
+    margin: 0px 8px;
+    cursor: pointer;
+}
+
+.nav-main {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    justify-content: space-between;
+    backdrop-filter: blur(5px);
+}
