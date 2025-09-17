@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "🚀 E-Commerce Project",
+    "desc": "We built a scalable and high-performance E-Commerce platform to enhance the online shopping experience with secure, feature-rich applications.",
+    "img": "src/image/blgecom.webp"
+  },
+  {
+    "id": 2,
+    "title": "📱 Mobile App Development",
+    "desc": "Our team created a cross-platform mobile app with an intuitive UI, designed to deliver seamless performance and better customer engagement.",
+    "img": "src/image/blogres.jpg"
+  },
+  {
+    "id": 3,
+    "title": "☁️ Cloud Solutions",
+    "desc": "We developed cloud solutions that help businesses scale effortlessly while ensuring security, reliability, and high availability.",
+    "img": "src/image/blogclo.avif"
+  },
+  {
+    "id": 4,
+    "title": "⚙️ Custom Software",
+    "desc": "We designed tailored software solutions to address unique business challenges and improve operational efficiency.",
+    "img": "src/image/custom-software.jpg"
+  },
+  {
+    "id": 5,
+    "title": "🎨 UI/UX Design",
+    "desc": "Our creative design team crafted user-friendly interfaces and engaging experiences to improve customer satisfaction and brand value.",
+    "img": "src/image/ui.jpg"
+  },
+  {
+    "id": 6,
+    "title": "🔒 Cybersecurity Solutions",
+    "desc": "We provide advanced cybersecurity services to protect businesses from threats, ensuring data safety and compliance with industry standards.",
+    "img": "src/image/abo2.png"
+  }
+]
