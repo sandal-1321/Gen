@@ -152,6 +152,13 @@
     text-align: center;
     margin: 20px 0px;
 }
+.aboutus-sec-2{
+    width:100%;
+    overflow: hidden;
+}
+.aboutus-sec-2 img{
+    width: 300px !important;
+}
 
 .aboutus-sec-1 h2 {
     font-weight: 350;

@@ -126,13 +126,14 @@
 }
 .blog-img{
     width: 100%;
+    overflow: hidden;
     margin: 20px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .blog-img img{
-    width: 350px;
-    height: 300px;
+    width: 270px;
+    height: 250px;
 }
 }
