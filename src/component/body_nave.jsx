@@ -10,9 +10,9 @@ const body_nave = () => {
           <div><span><i class="fa-solid fa-phone-volume"></i></span><p>+91 293823928 </p></div>
         </div>
         <div className='nav-social'>
-          <a href="#"><i class="fa-brands fa-facebook"></i>w</a>
-          <a href="#"><i class="fa-brands fa-linkedin"></i>s</a>
-          <a href="#"><i class="fa-brands fa-instagram"></i>a</a>
+          <a href="#"><i class="fa-brands fa-facebook"></i></a>
+          <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
         </div>
       </div>
     </div>
@@ -20,4 +20,5 @@ const body_nave = () => {
 }
 
 export default body_nave
+
 
