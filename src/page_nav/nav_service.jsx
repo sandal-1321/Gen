@@ -1,8 +1,7 @@
 import React from 'react'
 import '../static/nav_service.css'
-import Servic_data from '../file/servic_data.json'
+import Servic_data from '../file/servic_data.js'
 import data from "../file/data.json"
-
 
 const nav_service = () => {
   return (
