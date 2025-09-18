@@ -1,0 +1,176 @@
+.main-aboutus {
+    width: 98vw;
+    min-height: 99vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutus-sec {
+    width: 95%;
+    min-height: 100vh;
+    padding: 5px;
+}
+
+.aboutus-sec-0 {
+    text-align: center;
+    margin: 15px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
+}
+
+.aboutus-sec-0 h1 {
+    font-weight: 450;
+    font-size: 2.5rem;
+    cursor: pointer;
+    width: 400px;
+    color: rgb(28, 20, 20);
+    transition: 0.5s ease-in-out;
+}
+
+.aboutus-sec-0 h1::after {
+    content: "";
+    position: absolute;
+    width: 325px;
+    height: 32px;
+    border-bottom: 2px solid rgb(100, 57, 57);
+    margin-left: 5px;
+    transform: translateX(-330px) translateY(20px);
+    transition: transform 0.5s ease-in-out;
+}
+
+.aboutus-sec-0 h1:hover:after {
+    transform: translateX(-330px) translateY(15px);
+}
+
+
+.aboutus-block {
+    margin: 30px 0px;
+    width: 100%;
+    height: 80%;
+    display: flex;
+
+}
+
+.aboutus-sec-2,
+.aboutus-sec-1 {
+    width: 50%;
+}
+
+.aboutus-sec-1 h2 {
+    margin: 20px 5px;
+    font-weight: 400;
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+
+.aboutus-sec-1 p {
+    width: 80%;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin: 0px 30px;
+    font-size: 19px;
+    font-weight: 350;
+    margin-bottom: 30px;
+}
+
+.aboutus-sec-1 .btn {
+    text-align: center;
+}
+
+
+.aboutus-sec-1 .btn a {
+    text-decoration: none;
+    color: rgb(28, 20, 20);
+}
+
+.aboutus-sec-1 .btn button {
+    border: 1px solid rgba(73, 53, 53, 0.4);
+    padding: 4px 10px;
+    outline: none;
+    background: none;
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    box-shadow: 3px 3px 4px rgb(46, 36, 36);
+    background-color: rgb(235, 225, 225);
+    color: rgb(77, 65, 65);
+    cursor: pointer;
+}
+
+.aboutus-sec-1 .btn button:hover {
+    color: black;
+}
+
+.aboutus-sec-1 .btn button:active {
+    transform: translateY(1px);
+    box-shadow: 1px 1px 2px rgb(46, 36, 36);
+}
+
+.aboutus-sec-1 .btn button span {
+    margin: 0px 4px;
+}
+
+.aboutus-sec-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media only screen and (max-width: 500px) {
+    .aboutus-sec-0 {
+        text-align: center;
+        margin: 5px 0px;
+        height: 10%;
+    }
+    .aboutus-sec-0 h1 {
+    font-weight: 400;
+    font-size: 1.9rem;
+    width: 280px;
+}
+.aboutus-sec-0 h1::after {
+    width: 250px;
+    transform: translateX(-250px) translateY(10px);
+    transition: transform 0.5s ease-in-out;
+}
+
+.aboutus-sec-0 h1:hover:after {
+    transform: translateX(-260px) translateY(7px);
+}
+.aboutus-block {
+    margin: 10px 0px;
+    width: 100%;
+    min-height: auto;
+    display: block;
+}
+.aboutus-sec-2,
+.aboutus-sec-1 {
+    width:100%;
+    text-align: center;
+    margin: 20px 0px;
+}
+.aboutus-sec-2{
+    width:100%;
+    overflow: hidden;
+}
+.aboutus-sec-2 img{
+    width: 300px !important;
+}
+
+.aboutus-sec-1 h2 {
+    font-weight: 350;
+    font-size: 1.8rem;
+}
+.aboutus-sec-1 p {
+    width: 80%;
+    word-spacing: 1px;
+    margin: 0px 30px;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+    
+}
