@@ -1,9 +1,11 @@
 import React from 'react'
 import Blog from '../pages/blog.jsx'
 import '../static/nav-blog.css'
-import Blogpost from "../file/blog.json"
+import Blogpost from "../file/blog.js"
 
 const nav_blog = () => {
+
+
      return (
     <div className="blog-container-nav">
       <h2 className="blog-title-nav">Our Blog</h2>
