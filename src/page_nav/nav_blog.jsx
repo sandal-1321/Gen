@@ -3,7 +3,6 @@ import '../static/nav-blog.css'
 import Service from '../file/servic_data.js';
 import Blogpost from '../file/blog.js';
 import { useNavigate } from 'react-router-dom';
-import 'reactjs-popup/dist/index.css';
 
 const nav_blog = () => {
 
@@ -52,3 +51,4 @@ const nav_blog = () => {
 
 
 export default nav_blog
+
