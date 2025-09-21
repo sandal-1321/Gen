@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "ic":"fa-solid fa-code",
+    "titl": "Custom Software Development",
+    "des": "Tailored applications to solve specific business challenges and streamline operations."
+  },
+  {
+    "id": 2,
+    "ic":"fa fa-mobile",
+    "titl": "Mobile App Development",
+    "des":"Native and cross-platform mobile apps designed for iOS and Android."
+    
+  },
+  {
+    "id": 3,
+    "ic":"fa-solid fa-code",
+    "titl": "Web Development",
+    "des": "Responsive, fast, and secure websites using modern frameworks."
+  },
+  {
+    "id": 4,
+    "ic":"fa fa-line-chart",
+    "titl": "Data Analytics & Business Intelligence",
+    "des":"Transform data into actionable insights using analytics tools and dashboards."
+  },
+  {
+    "id": 5,
+    "ic":"fa fa-cogs",
+    "titl": "DevOps Services",
+    "des":"CI/CD pipelines, infrastructure automation, and continuous deployment solutions."
+  },
+  {
+    "id": 6,
+    "ic":"fa fa-pencil",
+    "titl": "UI/UX Design",
+    "des":"Engaging, user-friendly interfaces designed for a seamless user experience."
+  },
+  {
+    "id": 7,
+    "ic":"fa fa-support",
+    "titl": "Technical Support & Helpdesk",
+    "des":"Remote and on-site technical support services for employees and customers."
+  },
+  {
+    "id": 8,
+    "ic":"fa-solid fa-hexagon-nodes-bolt",
+    "titl": "Artificial Intelligence & Machine Learning",
+    "des":"AI solutions including chatbots, recommendation engines,and predictive analytics."
+  },
+  {
+    "id": 9,
+    "ic":"fa fa-shopping-cart",
+    "titl": "E-commerce Development",
+    "des":"Scalable e-commerce platforms with secure payment gateways and product management."
+  },
+  {
+    "id": 10,
+    "ic":"fa fa-users",
+    "titl": "Digital Marketing",
+    "des":"Digital marketing is the strategic use of online platforms to promote products or services, engage audiences, and drive business growth."
+  }
+  
+]
